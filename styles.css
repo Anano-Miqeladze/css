@@ -1,0 +1,26 @@
+h1 {
+    color:#8E26C0;
+    text-align:center; 
+    font-size: 64px;
+    h
+}
+
+#first { 
+    color:#FF0000;
+    background-color:#FFE8E8;
+    content:;
+    font-size: 15px;
+    padding: 24px 40px;
+    gap: 10px;
+    margin: 10px;
+    width: 446px;
+    height: 38px;
+}
+
+#second {
+    color: #85647B;
+    height: 144px;
+    width: 1023px; 
+    padding: 24px 40px 24px 40px;
+    box-sizing: border-box;
+}
